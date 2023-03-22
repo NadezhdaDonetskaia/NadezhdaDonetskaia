@@ -1,6 +1,6 @@
 ## Hi, I'm Nadezhda! 👋
 
-🐍 I'm python-developer.
+🐍 I'm python developer.
 
 🎓 I’m currently learning python at [Hexlet](https://ru.hexlet.io)
 
