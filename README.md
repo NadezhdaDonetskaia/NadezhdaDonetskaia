@@ -1,1 +1,25 @@
-# nella611.github.io
+## Hi, I'm Nadezhda! 👋
+
+🐍 I'm python-developer.
+
+🎓 I’m currently learning python at [Hexlet](https://ru.hexlet.io)
+
+🤔 I'm looking for help with an internship or first job in my specialty.
+
+📫 How to reach me:
+* [linkedin](https://www.linkedin.com/in/donetskaya-nadezhda/)
+* [Telegram]({https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white})(https://t.me/Nella0611)
+
+<!--
+Opensource:
+🤝 
+-->
+## My tech stack
+![](https://img.shields.io/pypi/pyversions/3?color=green&logo=python&style=plastic)
+![]()
+![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Github Stats
+![Metrics](/github-metrics.svg)
+
+[![](https://visitcount.itsvg.in/api?id=solar05&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
