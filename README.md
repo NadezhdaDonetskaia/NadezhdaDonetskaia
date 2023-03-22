@@ -30,6 +30,6 @@ Opensource:
 ![](https://img.shields.io/badge/beautifulsoup4-07405E?style=for-the-badge&logo=beautifulsoup&logoColor=#000000)
 
 ## Github Stats
-![Metrics](/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Nella611/Nella611/main/github-metrics.svg)
 
 [![](https://visitcount.itsvg.in/api?id=solar05&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
