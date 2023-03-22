@@ -32,4 +32,4 @@ Opensource:
 ## Github Stats
 ![Metrics](https://raw.githubusercontent.com/Nella611/Nella611/main/github-metrics.svg)
 
-[![](https://visitcount.itsvg.in/api?id=Nella611&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Nella611&color=blueviolet)
