@@ -20,14 +20,14 @@ Opensource:
 ![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Pytest-fff?style=for-the-badge&logo=pytest&logoColor=#0A9EDC)
+![](https://img.shields.io/badge/Pytest-07405E?style=for-the-badge&logo=pytest&logoColor=#0A9EDC)
 <!--
 ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 -->
 ![](https://img.shields.io/badge/Code%20Climate-000000?style=for-the-badge&logo=Code%20Climate&logoColor=white)
-![]()
-![]()
-![]()
+![](https://img.shields.io/badge/Poetry-07405E?style=for-the-badge&logo=poetry&logoColor=#60A5FA)
+![](https://img.shields.io/badge/Flask-07405E?style=for-the-badge&logo=flask&logoColor=#000000)
+![](https://img.shields.io/badge/beautifulsoup4-07405E?style=for-the-badge&logo=beautifulsoup&logoColor=#000000)
 
 ## Github Stats
 ![Metrics](/github-metrics.svg)
