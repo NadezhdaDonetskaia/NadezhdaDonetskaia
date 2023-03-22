@@ -15,8 +15,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: solar05
+          
+          
+          user: nella611
           template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Moscow
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
