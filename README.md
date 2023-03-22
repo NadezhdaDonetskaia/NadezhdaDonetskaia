@@ -20,7 +20,7 @@ Opensource:
 ![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/?badge=v4.4.0)
+![](https://img.shields.io/badge/Pytest-fff?style=for-the-badge&logo=pytest&logoColor=#0A9EDC)
 <!--
 ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 -->
