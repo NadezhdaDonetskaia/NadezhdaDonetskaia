@@ -32,10 +32,10 @@ Opensource:
 
 ## Leetcode
 
-[leetcode](https://leetcode.com/_Nella_/)
+![](https://leetcode.com/_Nella_/)
 
 ## Codewars
-[](https://www.codewars.com/users/Nella611/badges/large)
+![](https://www.codewars.com/users/Nella611/badges/large)
 
 ## Github Stat
 ![Metrics](https://raw.githubusercontent.com/Nella611/Nella611/main/github-metrics.svg)
