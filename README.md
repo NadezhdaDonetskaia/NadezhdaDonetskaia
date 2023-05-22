@@ -29,7 +29,15 @@ Opensource:
 ![](https://img.shields.io/badge/Flask-07405E?style=for-the-badge&logo=flask&logoColor=#000000)
 ![](https://img.shields.io/badge/beautifulsoup4-07405E?style=for-the-badge&logo=beautifulsoup&logoColor=#000000)
 
-## Github Stats
+
+## Leetcode
+
+[leetcode](https://leetcode.com/_Nella_/)
+
+## Codewars
+[](https://www.codewars.com/users/Nella611/badges/large)
+
+## Github Stat
 ![Metrics](https://raw.githubusercontent.com/Nella611/Nella611/main/github-metrics.svg)
 
 ![](https://komarev.com/ghpvc/?username=Nella611&color=blueviolet&label=PROFILE+VIEWS)
