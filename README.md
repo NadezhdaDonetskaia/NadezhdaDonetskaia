@@ -32,7 +32,7 @@ Opensource:
 
 ## Leetcode
 
-![](https://leetcode.com/_Nella_/)
+![LeetCode Stats](https://leetcode.card.workers.dev/https://leetcode.com/_Nella_/?theme=dark&font=source_code_pro&extension=activity)
 
 ## Codewars
 ![](https://www.codewars.com/users/Nella611/badges/large)
