@@ -43,7 +43,7 @@ Opensource:
 <!-- ![Metrics](https://raw.githubusercontent.com/Nella611/Nella611/main/github-metrics.svg) -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nella611)](https://github.com/anuraghazra/github-readme-stats) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nella611&theme=solarized_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nella611&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=nella611&layout=compact&theme=dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nella611&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=Nella611&color=blueviolet&label=PROFILE+VIEWS)
