@@ -39,6 +39,9 @@ Opensource:
 ![](https://www.codewars.com/users/Nella611/badges/large)
 
 ## Github Stat
-![Metrics](https://raw.githubusercontent.com/Nella611/Nella611/main/github-metrics.svg)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nella611&theme=dark&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+<!-- ![Metrics](https://raw.githubusercontent.com/Nella611/Nella611/main/github-metrics.svg) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nella611&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Nella611&color=blueviolet&label=PROFILE+VIEWS)
