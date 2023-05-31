@@ -7,7 +7,7 @@
 🤔 I'm looking for help with an internship or first job in my specialty.
 
 📫 How to reach me:
-* [[LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/donetskaya-nadezhda/)
+* [LinkedIn](https://www.linkedin.com/in/donetskaya-nadezhda/) (https://img.shields.io/badge/LinkedIn-blue)
 * [Telegram](https://t.me/Nella0611)
 
 <!--
