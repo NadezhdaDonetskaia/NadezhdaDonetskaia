@@ -11,6 +11,9 @@
  |---|---|
 |[LinkedIn](https://www.linkedin.com/in/donetskaya-nadezhda/)|[Telegram](https://t.me/Nella0611)
 
+![![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/donetskaya-nadezhda/)
+![![](https://img.shields.io/badge/telegram-blue)](https://t.me/Nella0611)
+
 <!--
 Opensource:
 🤝 
