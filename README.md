@@ -8,8 +8,8 @@
 
 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/donetskaya-nadezhda/)
-[Telegram](https://t.me/Nella0611)
+* [LinkedIn](https://www.linkedin.com/in/donetskaya-nadezhda/)
+* [Telegram](https://t.me/Nella0611)
 
 
 <!--
