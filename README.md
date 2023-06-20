@@ -21,6 +21,7 @@ Opensource:
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/postgresql-07405E?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Pytest-07405E?style=for-the-badge&logo=pytest&logoColor=#0A9EDC)
 <!--
@@ -30,7 +31,7 @@ Opensource:
 ![](https://img.shields.io/badge/Poetry-07405E?style=for-the-badge&logo=poetry&logoColor=#60A5FA)
 ![](https://img.shields.io/badge/Flask-07405E?style=for-the-badge&logo=flask&logoColor=#000000)
 ![](https://img.shields.io/badge/beautifulsoup4-07405E?style=for-the-badge&logo=beautifulsoup&logoColor=#000000)
-![](https://img.shields.io/badge/Docker-07405E?style=for-the-badge&logo=docker&logoColor=#2496ED)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black)
 
 
 ## Leetcode
