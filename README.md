@@ -32,6 +32,7 @@ Opensource:
 ![](https://img.shields.io/badge/Flask-07405E?style=for-the-badge&logo=flask&logoColor=#000000)
 ![](https://img.shields.io/badge/beautifulsoup4-07405E?style=for-the-badge&logo=beautifulsoup&logoColor=#000000)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black)
+![](https://img.shields.io/badge/FasApi-white?style=for-the-badge&logo=fastapi&logoColor=#0000)
 
 
 ## Leetcode
